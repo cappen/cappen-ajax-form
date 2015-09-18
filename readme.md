@@ -6,6 +6,8 @@
 $ bower install cappen-ajax-form --save
 ```
 
+### Usage
+
 ```sh
-<form class="ajaxForm"></form>
+<form action="seuArquivo.php" class="ajaxForm"></form>
 ```

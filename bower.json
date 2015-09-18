@@ -1,0 +1,19 @@
+{
+    "name": "CappenAjaxForm",
+    "version": "1.0.0",
+    "main": "dist/cappenAjaxForm.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": ">=1.10.2"
+    }
+}
