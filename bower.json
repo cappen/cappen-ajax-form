@@ -2,7 +2,7 @@
     "name": "CappenAjaxForm",
     "version": "1.0.0",
     "main": "dist/cappenAjaxForm.js",
-    "ignore": [
+    "ignore":[
         "source",
         "spec",
         ".bowerrc",
@@ -14,6 +14,7 @@
         "README.md"
     ],
     "dependencies": {
-        "jquery": ">=1.10.2"
+        "jquery": ">=1.10.2",
+        "git-test": "git@bitbucket.org:Coridyn/git-test.git"
     }
 }
